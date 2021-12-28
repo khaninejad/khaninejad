@@ -10,7 +10,7 @@
 
 ### 📫 Like to meet me?
 
-👇 Hit in your console or terminal to connect with me.
+👇 Hit in your console or terminal to connect with me or have an offline interview with my AI assistant.
 
 ```bash
 npx payam
