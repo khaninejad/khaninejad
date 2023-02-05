@@ -23,22 +23,19 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const anmol = {
     pronouns: "He" | "Him",
-    code: ["Nodejs", "Typescript", "C#", "Swift", "PHP"],
+    code: ["Nodejs", "Typescript", "C#"],
     askMeAbout: ["web dev", "tech", "app dev", "mobile dev"],
-    description: "This is Payam Khaninejad, the developer with a backend, full-stack, a little bit DevOps but definitely not a front-end",
+    description: "This is Payam Khaninejad, the developer with a backend, full-stack, a little bit DevOps",
     technologies: {
         backEnd: {
-            native: ["Nodejs", "Typescript", "C#", "PHP", "Python"],
+            native: ["Nodejs", "Typescript", "C#"],
         },
         fullStack: {
             js: ["Reactjs", "Javascript", "HTML5", "CSS"],
         },
-        mobileApp: {
-            native: ["IOS Development"]
-        },
         devOps: ["Docker🐳", "kubernetes"],
         databases: ["MySql", "MSSQL", "Postgress", "sqlite"],
-        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "php", "SuiteApp"]
+        misc: ["Firebase", "Socket.IO", "selenium", "open-cv", "SuiteApp"]
     },
     architecture: ["Serverless Architecture", "Progressive web applications", "Single page applications"],
     currentFocus: "Microservices",
