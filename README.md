@@ -1,5 +1,5 @@
 <h2>Hello, I'm Payam Khaninejad! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<p><em>Developer at <a href="http://www.coinhaven.com">Coinhaven</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Developer at <a href="http://www.coinhaven.com">Coinhaven</a>
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/khaninejad?label=Follow)](https://twitter.com/intent/follow?screen_name=khaninejad)
